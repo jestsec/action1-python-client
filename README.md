@@ -66,6 +66,4 @@ for i in getUpdates['items']:
 getUpdates = act.updates()
 for i in getUpdates['items']:
   print(i['name'])
-
-
 ~~~
